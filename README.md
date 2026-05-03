@@ -8,4 +8,4 @@ This project contains an ER diagram for a Smart Elevator Control System.
 - Tracks maintenance and elevator status  
 
 ## Diagram
-![ER Diagram](./smart-elevator-er-diagram.png)
+https://github.com/pragya-lily/Smart-Elevator-ER-diagram-/blob/main/IMG-20260410-WA0000.jpg?raw=true
